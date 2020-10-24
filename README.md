@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... School
 - 🌱 I’m currently learning ... Python and SQL
 - 👯 I’m looking to collaborate on ... Python
-- 🤔 I’m looking for help with ... SQL
+- 🤔 I’m looking for help with ... Python
 - 💬 Ask me about ... Anything you would like!
 - 📫 How to reach me: ... efazahmededu@gmail.com
 - 😄 Pronouns: ... He/Him
