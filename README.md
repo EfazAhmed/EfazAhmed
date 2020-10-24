@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... efazahmededu@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love to play PC Games such as Path of Exile!
--->
