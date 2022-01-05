@@ -42,10 +42,10 @@ Best of luck on your future endevours! 💪🏽 <br>
 </div>
 <h3><strong>Here's what I'm up too:</strong></h3>
 
-- 🔭 I’m currently working on: Fullstack development (Next.js and React), Blockchain (Solidity) and DS and algo
-- 🌱 I’m currently learning: Data Analysis (PySpark, Pandas, NumPy) and Machine Learning (Pytorch)
-- 👯 I’m looking to collaborate on: iOS development projects
-- 💬 Ask me about: Working out, Coding, Relationship advice
+- 🔭 I’m currently working on: Fullstack development (Flask, HTML, CSS, JavaScript, MongoDB)
+- 🌱 I’m currently learning: Data Analysis (NoSQL, SQL, Pandas, NumPy) and Machine Learning (Scikit-learn, TensorFlow)
+- 👯 I’m looking to collaborate on: Data Science/Analysis projects
+- 💬 Ask me about: Coding, Technical Interviews, and how to get started if you are a new programmer!
 - 📫 How to reach me: efazahmededu@gmail.com
 
 <br>
