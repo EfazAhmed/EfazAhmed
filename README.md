@@ -1,6 +1,5 @@
 ### Hi there  <img src="https://github.com/manuarora700/manuarora700/blob/master/gifs/Hi.gif" width="30px"> </h2>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=efazahmed)
 <a href="https://www.linkedin.com/in/eahmed2024/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/efazahmed/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://efazahmed.com/" target="_blank">
